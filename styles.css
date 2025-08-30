@@ -57,9 +57,10 @@
 .hero-heading { margin: 0 0 8px 0; font-size: 2rem; font-weight: 800; color: #fff; }
 .hero-copy { color: #fff; }
 .hero-copy p { margin: 0; max-width: 800px; line-height: 1.6; }
+.hero-copy p.cv-download { margin-top: 1.6rem !important; }
 
 /* CV download line: one line of space above, no italics */
-.cv-download { margin-top: 1em; font-style: normal; }
+.cv-download { margin-top: 1.5rem; font-style: normal; }
 
 /* Three mini sections under the CV line */
 .hero-columns {
