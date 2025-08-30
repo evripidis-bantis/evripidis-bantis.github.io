@@ -1,0 +1,8 @@
+---
+title: ""
+format:
+  html:
+    toc: false
+    include-before-body: partials/hero.html
+page-layout: full
+---

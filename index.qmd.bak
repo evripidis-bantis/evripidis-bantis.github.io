@@ -1,0 +1,20 @@
+---
+title: ""
+format:
+  html:
+    toc: false
+page-layout: full
+---
+
+<div class="hero-full">
+  <div class="hero-overlay">
+    <img src="images/headshot.jpg" alt="Evripidis Bantis headshot" class="hero-avatar">
+    <div class="hero-copy">
+      <h1>About Me</h1>
+      <p>I am an econometrician with experience in applied macroeconomics, forecasting, and credit risk. I currently work at Lloyds Banking Group within the commercial banking stress-testing framework, leading Credit Cycle Index models and corporate insolvencies work. I build econometric models and automate model pipelines in R (R Markdown, R Shiny), and I’m experienced in producing economic outlook reports and regular commentary on the UK economy and data releases. I spend my spare time reading and analysing macro developments, and occasionally write about economic policy and financial markets.</p>
+    </div>
+  </div>
+</div>
+
+## Latest
+See my recent posts and work below.

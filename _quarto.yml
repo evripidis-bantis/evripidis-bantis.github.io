@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Evripidis Bantis"
+  navbar:
+    left:
+      - text: "Blog & Projects"
+        href: blog.qmd
+  search: false
+
+resources:
+  - "images/**"
+  - "files/**"
+
+format:
+  html:
+    theme: [cosmo]
+    css: styles.css
