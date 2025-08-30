@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - text: "Blog & Projects"
-        href: posts/
+        href: blog.qmd
   search: false
 
 format:
