@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/index.html",
+      "/posts/the-institutional-advantage-of-the-euro/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": []
+  }
+]
