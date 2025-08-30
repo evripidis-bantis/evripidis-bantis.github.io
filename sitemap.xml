@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://evripidis-bantis.github.io/index.html</loc>
-    <lastmod>2025-08-30T14:53:21.941Z</lastmod>
+    <loc>https://evripidis-bantis.github.io/blog.html</loc>
+    <lastmod>2025-08-30T17:32:49.017Z</lastmod>
+  </url>
+  <url>
+    <loc>https://evripidis-bantis.github.io/posts/the-institutional-advantage-of-the-euro/index.html</loc>
+    <lastmod>2025-08-30T17:30:01.453Z</lastmod>
   </url>
   <url>
     <loc>https://evripidis-bantis.github.io/posts/index.html</loc>
     <lastmod>2025-08-30T14:53:21.944Z</lastmod>
   </url>
   <url>
-    <loc>https://evripidis-bantis.github.io/posts/the-institutional-advantage-of-the-euro/index.html</loc>
-    <lastmod>2025-08-30T17:30:01.453Z</lastmod>
+    <loc>https://evripidis-bantis.github.io/index.html</loc>
+    <lastmod>2025-08-30T14:53:21.941Z</lastmod>
   </url>
 </urlset>
