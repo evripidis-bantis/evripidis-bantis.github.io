@@ -3,15 +3,12 @@ project:
 
 website:
   title: "Evripidis Bantis"
+  site-url: https://evripidis-bantis.github.io/
   navbar:
     left:
       - text: "Blog & Projects"
-        href: blog.qmd
+        href: posts/
   search: false
-
-resources:
-  - "images/**"
-  - "files/**"
 
 format:
   html:
