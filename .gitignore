@@ -1,9 +1,15 @@
-/.quarto/
-**/*.quarto_ipynb
-
-.DS_Store
+# Quarto builds & caches
 _site/
 .quarto/
-*.bak
 
+# Standalone render artifacts (covers about_files, cv_files, index_files, posts/*/index_files)
+*_files/
+posts/**/index_files/
+
+# Jupyter artifacts that Quarto can generate
+**/*.quarto_ipynb
+
+# OS / tools / backups
+.DS_Store
 .Rhistory
+*.bak
