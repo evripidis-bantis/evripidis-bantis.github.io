@@ -1,1 +1,1 @@
-Sitemap: https://evripidis-bantis.github.io/evripidis-website/sitemap.xml
+Sitemap: https://evripidis-bantis.github.io/sitemap.xml
